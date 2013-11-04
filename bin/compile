@@ -1,0 +1,4 @@
+echo -e '\033[1;35mStart compiling:'
+sleep 2
+mvn compile
+echo -e '\033[00m'

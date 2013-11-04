@@ -1,0 +1,4 @@
+echo -e '\033[1;36mStart packaging:'
+sleep 2
+mvn package
+echo -e '\033[00m'
